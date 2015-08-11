@@ -20,8 +20,9 @@ class SnacShotViewController: UIViewController {
     var stillImageOutput: AVCaptureStillImageOutput! = AVCaptureStillImageOutput()
     var storingImage : UIImage!
     var outputsettings = NSDictionary(objectsAndKeys: AVVideoCodecJPEG, AVVideoCodecKey)
-    
+
     @IBOutlet var enghoe: UIImageView!
+
     
     
     @IBOutlet var captureView: UIView!
