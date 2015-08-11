@@ -29,7 +29,7 @@ class SnacShotViewController: UIViewController {
 
     
     
-    @IBOutlet var captureView: UIView!
+    @IBOutlet var RyanYAp: UIView!
     @IBOutlet var cameraView: UIView!
     @IBOutlet var capturebackground: UIImageView!
     
