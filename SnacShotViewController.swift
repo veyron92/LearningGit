@@ -21,7 +21,7 @@ class SnacShotViewController: UIViewController {
     var storingImage : UIImage!
     var outputsettings = NSDictionary(objectsAndKeys: AVVideoCodecJPEG, AVVideoCodecKey)
     
-    @IBOutlet var captureBG: UIImageView!
+    @IBOutlet var background: UIImageView!
     
     
     @IBOutlet var captureView: UIView!
