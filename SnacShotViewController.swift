@@ -22,6 +22,10 @@ class SnacShotViewController: UIViewController {
     var outputsettings = NSDictionary(objectsAndKeys: AVVideoCodecJPEG, AVVideoCodecKey)
 
     @IBOutlet var enghoe: UIImageView!
+    
+    var EQ : string!
+    
+    
 
     
     
