@@ -23,7 +23,7 @@ class SnacShotViewController: UIViewController {
 
     @IBOutlet var enghoe: UIImageView!
 
-    
+    Helllo
     
     @IBOutlet var RyanYAp: UIView!
     @IBOutlet var cameraView: UIView!
